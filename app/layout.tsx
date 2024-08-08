@@ -10,38 +10,32 @@ const open_sans = Open_Sans({
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
 });
-
 export const metadata: Metadata = {
-  title: "oYoo - Tìm kiếm & Đặt sân thể thao dễ dàng",
+  title: "oYoo Admin - Quản lý hệ thống đặt sân thể thao",
   description:
-    "Khám phá và đặt sân thể thao dễ dàng với oYoo. Kết nối với những người đam mê thể thao, theo dõi lịch đặt sân và nhận thông báo tự động. Bắt đầu hành trình thể thao của bạn với chúng tôi ngay hôm nay!",
+    "Trang quản trị oYoo giúp bạn dễ dàng quản lý hệ thống đặt sân thể thao. Quản lý thông tin sân bãi, theo dõi người dùng, xử lý yêu cầu đặt sân và nhận thông báo tức thì. Đơn giản hóa việc quản lý với oYoo Admin!",
   openGraph: {
-    title: "oYoo - Tìm kiếm & Đặt sân thể thao dễ dàng",
+    title: "oYoo Admin - Quản lý hệ thống đặt sân thể thao",
     description:
-      "oYoo mang đến trải nghiệm đặt sân thể thao toàn diện. Tìm kiếm và đặt sân, kết nối với đồng đội và quản lý hoạt động thể thao của bạn một cách dễ dàng. Tham gia oYoo ngay bây giờ!",
+      "oYoo Admin cung cấp công cụ quản lý toàn diện cho việc đặt sân thể thao. Dễ dàng quản lý sân bãi, người dùng, và theo dõi hoạt động từ một giao diện duy nhất. Tối ưu hóa quy trình quản lý của bạn với oYoo Admin!",
     images: [
-      "https://res.cloudinary.com/vku-university/image/upload/v1721705685/phdog9lxfozfmxvklufi.png",
+      "https://res.cloudinary.com/vku-university/image/upload/v1723109339/cknj5rnh1qj8iy0rl0em.png",
     ],
   },
   keywords: [
-    "oYoo",
-    "Đặt lịch sân thể thao",
-    "Đặt sân thể thao",
-    "Đặt sân bóng đá",
-    "Đặt sân tennis",
-    "Đặt sân cầu lông",
-    "Đặt sân bóng rổ",
-    "Đặt sân bóng chuyền",
-    "Đặt sân bóng bàn",
-    "Đặt sân bóng đá mini",
-    "Đặt sân futsal",
+    "oYoo Admin",
+    "Quản lý đặt sân thể thao",
+    "Quản trị hệ thống sân bãi",
+    "Quản lý người dùng",
+    "Quản lý đặt sân",
+    "Hệ thống quản lý sân thể thao",
+    "oYoo quản lý sân thể thao",
   ],
   viewport: "width=device-width, initial-scale=1.0",
-  robots: "index",
   other: {
     "google-site-verification": "4ahDuz3zxm5yfILuV5i30-AWdYT5CAyuWN4SMN53BQU",
     "apple-itunes-app": "app-id=id6553981056",
-    "google-play-app": "app-id=com.hihi.sport.booking",
+    "google-play-app": "app-id=com.hihi.sport.booking.booking",
   },
 };
 
