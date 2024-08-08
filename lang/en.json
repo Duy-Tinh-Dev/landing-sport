@@ -1,0 +1,180 @@
+{
+  "lang": {
+    "en": "en",
+    "vi": "vn"
+  },
+  "common": {
+    "name": "oYoo",
+    "sport": "Sport",
+    "merchant": "Merchant",
+    "customer-review": "Customer Reviews",
+    "review": "Review",
+    "your-email": "Your Email",
+    "email": "Email",
+    "subscribe": "Subscribe",
+    "owner-playground": "Owner of ACB Playground",
+    "copy-right": "© HIHITEAM 2024 - All Rights Reserved",
+    "validate-empty": "This field is required!",
+    "form": {
+      "first-name": "First Name",
+      "last-name": "Last Name"
+    }
+  },
+  "hero": {
+    "title": "Sports field management with",
+    "sub-title": "Comprehensive solution for sports field management."
+  },
+  "our-services": {
+    "title": "OPTIMIZE TIME, INCREASE SPORTS STADIUM REVENUE",
+    "item-1": {
+      "title": "SCHEDULE MANAGEMENT",
+      "description": "You can schedule directly on the app"
+    },
+    "item-2": {
+      "title": "REVENUE MANAGEMENT",
+      "description": "Manage your revenue efficiently"
+    },
+    "item-3": {
+      "title": "CUSTOMER MANAGEMENT",
+      "description": "Search or recruit casual players."
+    },
+    "item-4": {
+      "title": "AUTOMATIC NOTIFICATIONS",
+      "description": "Automatically notify your customers about their play schedules"
+    }
+  },
+  "feature": {
+    "item-1": {
+      "sub-title": "Monitor overall playground with dashboard",
+      "title": "All essential information on one screen",
+      "description": "With revenue charts, activity notifications, and employee booking transactions. You can control everything.",
+      "button-text": "CONTACT US NOW"
+    },
+    "item-2": {
+      "sub-title": "Daily Playground Activities",
+      "title": "Manage playground in real-time",
+      "description": "Know which playground is in use. How long they play. Whose playground it is. No need to waste time searching. Now displayed right on the screen.",
+      "button-text": "CONTACT US NOW"
+    },
+    "item-3": {
+      "sub-title": "Easy Payment Options",
+      "title": "Customizable system as per your requirements.",
+      "description": "The system already has great features. But if you want more. Contact us for consultation to modify the management system as per your exact needs.",
+      "button-text": "CONTACT US NOW"
+    },
+    "item-4": {
+      "sub-title": "Reviews, Feedback, Security, and Safety",
+      "title": "And many more features awaiting your discovery.",
+      "description": "oYoo Merchant is the optimal application for managing rental sports playgrounds, helping you professionally and effectively manage playground bookings. With powerful and user-friendly features, oYoo Merchant will be a valuable assistant for all sports playground owners."
+    }
+  },
+  "plans": {
+    "title": "SYSTEM USAGE PACKAGES",
+    "feature-common": {
+      "item-1": "Playground management features",
+      "item-2": "Online booking features",
+      "item-3": "Detailed reporting features",
+      "item-4": "Payment & invoice management features",
+      "item-5": "Customer management features",
+      "item-6": "Employee role management features",
+      "item-7": "Sales features (playground services)",
+      "item-8": "Support online payment methods, auto booking approval",
+      "item-9": "Customizable system as per requirements.",
+      "item-10": "24/7 support"
+    },
+    "one-playground": "1 playground",
+    "multi-playground": "multiple playgrounds",
+    "name": {
+      "basic": "Basic Package",
+      "premium": "Premium Package",
+      "vip": "VIP Package"
+    },
+    "btn-text": "CONTACT FOR CONSULTATION"
+  },
+  "testimonial": {
+    "title": "Customer Reviews About Us 😍",
+    "item-1": {
+      "name": "Floyd Miles",
+      "review": "The app is very convenient, helping me easily find and schedule play with teammates. I am very satisfied with oYoo's service."
+    },
+    "item-2": {
+      "name": "Mildred Wagner",
+      "review": "Great app, helping me quickly and easily find playgrounds. I have found many teammates to play with thanks to oYoo."
+    },
+    "item-3": {
+      "name": "Mildred Wagner",
+      "review": "Great, I have found many teammates to play with thanks to oYoo."
+    },
+    "item-4": {
+      "name": "Eleanor Pena",
+      "review": "I am very impressed with the user-friendly interface and features of the oYoo app. Highly recommended."
+    },
+    "item-5": {
+      "name": "Ronald Richards",
+      "review": "This app has saved me a lot of time in finding and booking playgrounds. Very satisfied with oYoo."
+    },
+    "item-6": {
+      "name": "Jenny Wilson",
+      "review": "Thanks to oYoo, I can easily find playgrounds every weekend. This is a great app!"
+    },
+    "item-7": {
+      "name": "Cameron Williamson",
+      "review": "Very useful and user-friendly app. I have recommended it to many friends to use oYoo."
+    },
+    "item-8": {
+      "name": "Esther Howard",
+      "review": "oYoo's service is truly excellent. I have had great experiences using this app."
+    }
+  },
+  "app-download": {
+    "sub-title": "Download the app",
+    "title-start": "Start with",
+    "title-end": "today!",
+    "description": "Comprehensive sports field management. Simplify management, field booking.. Optimize time and increase operational efficiency, the perfect solution for all your sports field management needs."
+  },
+  "support": {
+    "heading": "Support",
+    "support-message-1": "We are always ready to help",
+    "support-message-2": "Hello!",
+    "support-message-3": "How can we help you?",
+    "placeholder-message": "Enter your message here",
+    "button-send": "Send Request"
+  },
+  "faqs": {
+    "title": "Frequently Asked Questions",
+    "question-1": {
+      "title": "What is Webflow and why is it the best website builder?",
+      "answer": "Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere."
+    }
+  },
+  "policy": {
+    "title": "Privacy Policy"
+  },
+  "terms": {
+    "title": "Terms of Service"
+  },
+  "footer": {
+    "company": {
+      "title": "Company",
+      "join-us": "Join Us",
+      "faq": "FAQ",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Legal",
+      "terms": "Terms of Use",
+      "privacy": "Privacy Policy",
+      "cookie": "Cookie Policy"
+    },
+    "support": {
+      "title": "Support",
+      "account": "Account",
+      "support": "Support Center",
+      "feedback": "Feedback"
+    },
+    "newsletter": {
+      "title": "Newsletter",
+      "description": "Stay Updated"
+    }
+  }
+}

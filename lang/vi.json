@@ -1,0 +1,180 @@
+{
+  "lang": {
+    "en": "en",
+    "vi": "vn"
+  },
+  "common": {
+    "name": "oYoo",
+    "sport": "Sport",
+    "merchant": "Merchant",
+    "customer-review": "Khách hàng hài lòng",
+    "review": "Đánh giá",
+    "your-email": "Email của bạn",
+    "email": "Email",
+    "subscribe": "Đăng ký",
+    "owner-playground": "Chủ sở hữu sân chơi ACB",
+    "copy-right": "© HIHITEAM 2024 - Đã đăng ký Bản quyền",
+    "validate-empty": "Trường này là bắt buộc!",
+    "form": {
+      "first-name": "Tên",
+      "last-name": "Họ"
+    }
+  },
+  "hero": {
+    "title": "Quản lý sân thể thao với",
+    "sub-title": "Giải pháp toàn diện cho quản lý sân thể thao."
+  },
+  "our-services": {
+    "title": "TỐI ƯU HÓA THỜI GIAN, TĂNG DOANH THU SÂN THÊ THAO",
+    "item-1": {
+      "title": "QUẢN LÝ ĐẶT LỊCH",
+      "description": "Bạn có thể đặt lịch ngay trên ứng dụng"
+    },
+    "item-2": {
+      "title": "QUẢN LÝ DOANH THU",
+      "description": "Bạn có thể đặt lịch ngay trên ứng dụng"
+    },
+    "item-3": {
+      "title": "QUẢN LÝ KHÁC HÀNG",
+      "description": "Tìm kiếm hoặc tuyển bạn chơi vãng lai."
+    },
+    "item-4": {
+      "title": "THÔNG BÁO TỰ ĐỘNG",
+      "description": "Thông báo lịch chơi đến khách hàng của bạn một cách tự động"
+    }
+  },
+  "feature": {
+    "item-1": {
+      "sub-title": "Theo dõi tổng quan sân với màn hình dashboad",
+      "title": "Các thông tin cần thiết trên một màn hinh",
+      "description": "Với các biểu đồ doanh thu, thông báo các hoạt động đặt lịch thanh toán của nhân viên. Bạn là chủ sân có thể kiểm soát tất cả.",
+      "button-text": "LIÊN HỆ NGAY"
+    },
+    "item-2": {
+      "sub-title": "Hoạt động sấn trong ngày",
+      "title": "Quản lý sân theo thời gian thực",
+      "description": "Biết được sân nào đang chơi. Thời gian chơi bao lâu. Sân của khách hàng nào. Không cần tối thời gian tìm kiếm. Bây giờ được hiển thị ngay trên màn hình.",
+      "button-text": "LIÊN HỆ NGAY"
+    },
+    "item-3": {
+      "sub-title": "Tùy chọn thanh toán dễ dàng",
+      "title": "Có thể thay đổi hệ thống theo mong muốn của bạn.",
+      "description": "Hệ thống đã có nhưng chức năng hay. Nhưng bạn mong muốn nhiều hơn nữa. Hay liên hệ chúng tôi để được tư vấn chỉnh sửa hệ thông quán lý theo đúng móng muốn của bạn,",
+      "button-text": "LIÊN HỆ NGAY"
+    },
+    "item-4": {
+      "sub-title": "Đánh Giá, Phản Hồi, Bảo Mật và An Toàn",
+      "title": "Và còn nhiều chức năng chờ bạn khám phá.",
+      "description": "oYoo Merchant là ứng dụng tối ưu cho việc quản lý sân thể thao cho thuê, giúp bạn quản lý booking sân chơi một cách chuyên nghiệp và hiệu quả. Với nhiều chức năng mạnh mẽ và thân thiện với người dùng, oYoo Merchant sẽ là trợ thủ đắc lực cho mọi chủ sân thể thao."
+    }
+  },
+  "plans": {
+    "title": "GÓI SỬ DỤNG HỆ THỐNG",
+    "feature-common": {
+      "item-1": "Chức năng quản lý sân",
+      "item-2": "Chức năng đặt lịch online",
+      "item-3": "Chức báo cáo chi tiết",
+      "item-4": "Chức năng quản lý thanh toán & hóa đơn",
+      "item-5": "Chức năng quản lý khách hàng",
+      "item-6": "Chức năng quản lý phân quyền nhân viên",
+      "item-7": "Chức năng bán hàng ( dịch vụ của sân )",
+      "item-8": "Hỗ trợ phương thức thanh toán online, duyệt sân đặt lịch tự động",
+      "item-9": "Có thể tùy chỉnh hệ thống theo yêu cầu.",
+      "item-10": "Hỗ trợ 24/7"
+    },
+    "one-playground": "1 sân",
+    "multi-playground": "nhiều sân",
+    "name": {
+      "basic": "Gói Basic",
+      "premium": "Gói Premium",
+      "vip": "Gói VIP"
+    },
+    "btn-text": "LIÊN HỆ  ĐỂ  ĐƯỢC TƯ VẤN"
+  },
+  "testimonial": {
+    "title": "Đánh giá của Khách hàng về Chúng tôi 😍",
+    "item-1": {
+      "name": "Floyd Miles",
+      "review": "Ứng dụng rất tiện lợi, giúp tôi dễ dàng tìm sân và lên lịch chơi với đồng đội. Tôi rất hài lòng với dịch vụ của oYoo."
+    },
+    "item-2": {
+      "name": "Mildred Wagner",
+      "review": "Ứng dụng tuyệt vời, giúp tôi nhanh chóng và dễ dàng tìm sân chơi. Tôi đã tìm được nhiều đồng đội để chơi cùng nhờ oYoo."
+    },
+    "item-3": {
+      "name": "Mildred Wagner",
+      "review": "Tuyệt vời, tôi đã tìm được nhiều đồng đội để chơi cùng nhờ oYoo."
+    },
+    "item-4": {
+      "name": "Eleanor Pena",
+      "review": "Tôi rất ấn tượng với giao diện thân thiện và các tính năng của ứng dụng oYoo. Rất đáng sử dụng."
+    },
+    "item-5": {
+      "name": "Ronald Richards",
+      "review": "Ứng dụng này đã giúp tôi tiết kiệm rất nhiều thời gian trong việc tìm và đặt sân chơi. Rất hài lòng với oYoo."
+    },
+    "item-6": {
+      "name": "Jenny Wilson",
+      "review": "Nhờ có oYoo, tôi có thể dễ dàng tìm sân chơi mỗi cuối tuần. Đây là một ứng dụng tuyệt vời!"
+    },
+    "item-7": {
+      "name": "Cameron Williamson",
+      "review": "Ứng dụng rất hữu ích và thân thiện với người dùng. Tôi đã giới thiệu cho nhiều bạn bè sử dụng oYoo."
+    },
+    "item-8": {
+      "name": "Esther Howard",
+      "review": "Dịch vụ của oYoo thực sự xuất sắc. Tôi đã có những trải nghiệm rất tốt khi sử dụng ứng dụng này."
+    }
+  },
+  "app-download": {
+    "sub-title": "Tải ứng dụng",
+    "title-start": "Bắt đầu với",
+    "title-end": "ngay hôm nay!",
+    "description": "Quản lý sân thể thao toàn diện. Đơn giản hóa việc quản lý, đặt sân..Tối ưu hoá thời gian và tăng cường hiệu quả vận hành , giải pháp hoàn hảo cho mọi nhu cầu quản lý sân thể thao của bạn."
+  },
+  "support": {
+    "heading": "Hỗ trợ",
+    "support-message-1": "Chúng tôi luôn sẵn sàng giúp đỡ",
+    "support-message-2": "Xin chào!",
+    "support-message-3": "Chúng tôi có thể giúp gì cho bạn?",
+    "placeholder-message": "Nhập tin nhắn của bạn ở đây",
+    "button-send": "Gửi yêu cầu"
+  },
+  "faqs": {
+    "title": "Câu hỏi thường gặp",
+    "question-1": {
+      "title": "Webflow là gì và tại sao nó là trình xây dựng website tốt nhất?",
+      "answer": "Vitae congue eu consequat ac felis placerat vestibulum lectus mauris ultrices. Cursus sit amet dictum sit amet justo donec enim diam porttitor lacus luctus accumsan tortor posuere."
+    }
+  },
+  "policy": {
+    "title": "Chính sách Bảo mật"
+  },
+  "terms": {
+    "title": "Điều khoản Dịch vụ"
+  },
+  "footer": {
+    "company": {
+      "title": "Công ty",
+      "join-us": "Tham gia ngay",
+      "faq": "Câu hỏi thường gặp",
+      "blog": "Blog"
+    },
+    "legal": {
+      "title": "Pháp lý",
+      "terms": "Điều khoản Sử dụng",
+      "privacy": "Chính sách Bảo mật",
+      "cookie": "Chính sách Cookie"
+    },
+    "support": {
+      "title": "Hỗ trợ",
+      "account": "Tài khoản",
+      "support": "Trung tâm Hỗ trợ",
+      "feedback": "Phản hồi"
+    },
+    "newsletter": {
+      "title": "Bản tin",
+      "description": "Luôn Cập nhật"
+    }
+  }
+}

@@ -1,0 +1,101 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@layer base {
+  body {
+    @apply font-open_sans;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-open_sans;
+  }
+}
+
+@layer components {
+  .p-container {
+    @apply px-4 sm:px-6 xl:px-20;
+  }
+}
+
+@layer utilities {
+  .scrollbar-hide {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* css policy page */
+  .policy p {
+    margin-bottom: 15px;
+  }
+
+  .policy h3 {
+    font-size: 24px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    color: black;
+  }
+
+  .policy h2 {
+    font-size: 32px;
+    margin-top: 40px;
+    margin-bottom: 20p;
+    font-weight: bold;
+  }
+
+  .policy ul {
+    list-style: disc;
+    margin-left: 18px;
+  }
+
+  .policy li {
+    margin-bottom: 10px;
+  }
+
+  .policy bold {
+    color: black;
+  }
+
+  /* css term page */
+  .term h4 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+
+  .term p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+  .term ul {
+    list-style-type: disc;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .term li {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 10px;
+  }
+}
